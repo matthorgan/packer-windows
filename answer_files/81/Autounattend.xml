@@ -33,7 +33,7 @@
                 <Organization>Vagrant Inc.</Organization>
 
                 <!--
-                    NOTE: If you are re-configuring this for use of a retail key 
+                    NOTE: If you are re-configuring this for use of a retail key
                     and using a retail ISO, you need to adjust the <ProductKey> block
                     below to look like this:
 
@@ -277,7 +277,7 @@
             </OEMInformation>
             <!-- Rename computer here. -->
             <ComputerName>vagrant-81</ComputerName>
-            <TimeZone>Pacific Standard Time</TimeZone>
+            <TimeZone>GMT Standard Time</TimeZone>
             <RegisteredOwner/>
         </component>
         <component xmlns:wcm="http://schemas.microsoft.com/WMIConfig/2002/State" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Microsoft-Windows-Security-SPP-UX" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
